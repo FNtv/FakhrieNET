@@ -145,7 +145,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png",Celestial Movies
-https://github.com/FNtv/Channel/blob/main/File/maintence%202.mp4?raw=true
+https://Lnk.ec/celestialMovie?shareext.ts
 #EXTINF:-1 group-title="MOVIES",Celestial Classic Movies
 http://rr2.dens.tv/s/s31/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP 2
