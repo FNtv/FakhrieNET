@@ -42,6 +42,8 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3drQ-AANSJB3IHy_J2fxjM/m3u8
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RRIfntv.png?raw=true",RRI
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2VjJqlC" group-title="LOKAL", SUMEDANG TV
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/iNewsfntv.png?raw=true",iNews
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
